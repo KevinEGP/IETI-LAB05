@@ -1,0 +1,14 @@
+.Card-container {
+  background: #f0f0f0;
+  border-radius: 15px !important;
+  padding-bottom: 25px;
+}
+
+h2 {
+  color:#1976d2;
+  margin-bottom: 50px;
+}
+
+.Login-button {
+  width: 50%;
+}
